@@ -1,0 +1,13 @@
+order_id,customer_name,city,category,unit_price,quantity,order_date,status
+1001,Sangeeta,Bhubaneswar,Electronics,1200,2,2026-09-01,Completed
+1002,Rahul,Bangalore,Furniture,800,1,2026-09-02,Completed
+1003,Priya,Pune,Electronics,1500,1,2026-09-03,Cancelled
+1004,Amit,Hyderabad,Clothing,450,3,2026-09-03,Completed
+1005,Neha,Mumbai,Electronics,2200,2,2026-09-04,Completed
+1006,Ravi,Delhi,Clothing,700,2,2026-09-05,Completed
+1007,Anita,Bhubaneswar,Furniture,950,1,2026-09-05,Pending
+1008,Karan,Pune,Electronics,1800,1,2026-09-06,Completed
+1009,Meena,Chennai,Clothing,600,2,2026-09-07,Completed
+1010,Vikas,Bangalore,Furniture,1100,1,2026-09-07,Completed
+1011,Riya,Mumbai,Electronics,1300,2,2026-09-08,Completed
+1012,Arjun,Delhi,Clothing,500,2,2026-09-09,Cancelled
