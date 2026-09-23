@@ -1,4 +1,4 @@
-# Healthcare Claims Analytics — 1 Million Records | PySpark
+# Healthcare Claims Analytics | PySpark
 
 ## Project Overview
 
